@@ -3,7 +3,7 @@
 Hello There! Eu sou a Yasmin Constantino e criei esse repositório para colocar as minhas soluções para as questões dos desafios tecnicos.
 
 ## Questão tecnica 1:
-Fiz uma codigo basico em C, para confirmar e ter certeza do resultado que tive ao realizar o teste de mesa e analisar o pseudocodigo oferecido.
+Fiz um codigo basico em C, para confirmar e ter certeza do resultado que tive ao realizar o teste de mesa e analisar o pseudocodigo oferecido.
 [Resolução e resposta do tecnico 1](tecnico1.c)
 
 ## Questão tecnica 2:
